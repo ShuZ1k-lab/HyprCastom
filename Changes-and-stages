@@ -26,6 +26,14 @@ Setup steps.
 
 # Leds For MicMute & VolMute Button
 
+Working principle.
+    Usage tool 'alsa-tools' & bash script 'leds_sync.sh' for on\off lights
+
+Setup steps.
+    Install tool 'alsa-tools'.
+    Copy script 'leds_sync.sh' to '~/.config/scripts/'.
+    Added 'leds_sync.sh' script to background process.
+
 
 # Touchpad & MultiTouch
 
