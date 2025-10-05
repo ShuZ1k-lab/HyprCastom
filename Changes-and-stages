@@ -1,0 +1,70 @@
+#########################################
+############ Setting System #############
+#########################################
+
+# Terminal 
+
+
+# Screenshots
+
+
+# Automation Lock System
+
+
+# Volume Control
+
+
+# Light Control
+
+Working principle.
+    Usage tool 'brightnessctl' & bash script 'set_brightness.sh' for smooth lighting changes.
+
+Setup steps.
+    Install tool 'brightnessctl'.
+    Copy script 'set_brightness.sh' to '~/.config/scripts/'.
+    The 'hyprland.conf' file uses a script to change the lighting using hotkeys.
+
+# Leds For MicMute & VolMute Button
+
+
+# Touchpad & MultiTouch
+
+
+# Stylus
+
+
+#########################################
+########### Setting Work Desk ###########
+#########################################
+
+# Windows Manager
+
+Usage Hyprland
+
+# Background 
+
+Usage swww
+
+# Title Bar
+
+Usage Waybar
+
+# Launcher
+
+
+# Notification
+
+
+# Widgets
+
+
+# Dock
+
+
+# Locker
+
+
+# Global Locker
+
+
+# Portable Mode
