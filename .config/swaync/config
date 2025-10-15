@@ -1,0 +1,3 @@
+[config]
+config=~/.config/swaync/layout.json
+style=~/.config/swaync/style.css

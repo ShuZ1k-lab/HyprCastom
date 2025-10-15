@@ -1,0 +1,16 @@
+[config]
+layout=~/.config/wlogout/layout.json
+css=~/.config/wlogout/style.css
+
+@REM    -b, --buttons-per-row <0-x>     Set the number of buttons per row
+@REM    -c  --column-spacing <0-x>      Set space between buttons columns
+@REM    -r  --row-spacing <0-x>         Set space between buttons rows
+@REM    -m, --margin <0-x>              Set margin around buttons
+@REM    -L, --margin-left <0-x>         Set margin for left of buttons
+@REM    -R, --margin-right <0-x>        Set margin for right of buttons
+@REM    -T, --margin-top <0-x>          Set margin for top of buttons
+@REM    -B, --margin-bottom <0-x>       Set margin for bottom of buttons
+@REM    -p, --protocol <protocol>       Use layer-shell or xdg protocol
+@REM    -s, --show-binds                Show the keybinds on their corresponding button
+@REM    -n, --no-span                   Stops from spanning across multiple monitors
+@REM    -P, --primary-monitor <0-x>     Set the primary monitor

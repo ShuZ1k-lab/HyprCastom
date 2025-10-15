@@ -55,12 +55,26 @@ Usage swww
 
 # Title Bar
 
-Usage Waybar
+waybar
+hyprpicker
+pywal
+blueman
+bluez
+networkmanager
+swaync
+yay
 
 # Launcher
 
+wofi
+
 
 # Notification
+
+swaync
+pywal
+gvfs
+libnotify
 
 
 # Widgets
@@ -68,11 +82,19 @@ Usage Waybar
 
 # Dock
 
+# Exit Window
+yay -S wlogout
+
 
 # Locker
+
+hyprlock
 
 
 # Global Locker
 
 
 # Portable Mode
+
+
+# Splash Screen
